@@ -1,1 +1,3 @@
-print('Hi, this is a test for git')
+message = 'Hi! This is a test for git'
+
+print(message)
